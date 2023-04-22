@@ -1,0 +1,24 @@
+{
+  "name": "movie_show_times",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose.js",
+  "scripts": {
+  
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvargas210680/Movie_show_times.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvargas210680/Movie_show_times/issues"
+  },
+  "homepage": "https://github.com/nvargas210680/Movie_show_times#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

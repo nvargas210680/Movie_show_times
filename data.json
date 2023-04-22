@@ -1,0 +1,27 @@
+[
+    {
+    "movie title": "The Matrix",
+    "start time": "Friday March 24th, 2023 7:00pm",
+    "runTime":185,
+    "rating": "PG-13",
+    "genre": "Sci-Fi",
+    "synsopsis": "Acomputer Hacker discovers the Matrix"
+
+},
+{
+    "movie title": "Pretty in Pink",
+    "start time": "Friday March 24th, 2023 11:00PM",
+    "runTime":132,
+    "rating": "R",
+    "genre": "High-School Drama",
+    "synsopsis": "The story of a woman who is pretty in pink"
+},
+{
+   "movie title": "Jhon Wick 4",
+    "start time": "Friday March 24th, 2023 1:00PM",
+    "runTime":120,
+    "rating": "E",
+    "genre": "Action",
+    "synsopsis": "Jhon is Back and ready to Kill"
+}
+]
